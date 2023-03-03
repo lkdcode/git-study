@@ -2,4 +2,6 @@
 bahs
 bye지우고 aaa,bbb,ccc추가(txt아님)
 
+
+asdfjkasdhfkj
 <버전 수정1.0.2>
